@@ -2,8 +2,6 @@
 
 ✨ **Live Demo:** [Three.js Portfolio](https://kennygarcia.net)
 
-📂 **GitHub Repo:** [Three.js-Portfolio](https://github.com/bebopkenny/Three.js-Portfolio)
-
 ---
 
 ## 📖 Overview
