@@ -1,10 +1,10 @@
-# 🖥️ Three.js Developer Portfolio
+# Three.js Developer Portfolio
 
-✨ **Live Demo:** [Three.js Portfolio](https://kennygarcia.net)
+**Live Demo:** [Three.js Portfolio](https://kennygarcia.net)
 
 ---
 
-## 📖 Overview
+## Overview
 
 Welcome to my **Three.js Developer Portfolio**! This project showcases my skills and projects through an interactive 3D experience using **React.js**, **Three.js**, and **Tailwind CSS**. The portfolio was created to enhance my web development expertise and to stand out to recruiters by presenting my work in a visually stunning and interactive way.
 
@@ -12,7 +12,7 @@ This portfolio was also submitted as part of the **ACM Design Annual Personal Po
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 The following technologies were used to build this portfolio:
 
@@ -26,39 +26,39 @@ The following technologies were used to build this portfolio:
 
 ---
 
-## 🚀 Features
+## Features
 
 This portfolio includes several **modern and interactive features** designed to captivate users and showcase my work:
 
-### 🔷 **Immersive Hero Section**
+### **Immersive Hero Section**
 - A stunning **3D hacker room model** that responds to mouse movements.
 - Orbiting icons showcasing my tech stack in a creative way.
 
-### 🔷 **About Me Section**
+### **About Me Section**
 - Interactive **globe pinpointing my location** in the world.
 - Clean **bento grid layout** featuring personal information, tech icons, and a **one-click email copy** feature.
 
-### 🔷 **Dynamic Project Showcase**
+### **Dynamic Project Showcase**
 - **3D computer model** that allows users to view my projects directly on the screen.
 - Interactive project browsing with smooth transitions and project descriptions.
 
-### 🔷 **Experience Timeline**
+### **Experience Timeline**
 - An **engaging timeline** showcasing my professional milestones.
 - Hover effects that trigger **3D animations** to bring my career journey to life.
 
-### 🔷 **Client Testimonials**
+### **Client Testimonials**
 - **Testimonial cards** featuring feedback from satisfied clients and collaborators.
 
-### 🔷 **Contact Form**
+### **Contact Form**
 - **Fully functional email form** powered by **EmailJS** to let visitors get in touch directly.
 - Includes **validation and error handling** to ensure a seamless user experience.
 
-### 🔷 **Responsive Design**
+### **Responsive Design**
 - Fully optimized for **desktop, tablet, and mobile devices**, ensuring a **smooth experience** across all platforms.
 
 ---
 
-## 🛠️ Challenges & Accomplishments
+##  Challenges & Accomplishments
 
 ### Challenges I Faced:
 Building a 3D portfolio came with its own set of challenges:
@@ -79,7 +79,7 @@ Building a 3D portfolio came with its own set of challenges:
 
 ---
 
-## 💡 What's Next?
+## What's Next?
 
 Here are some additional features I'd like to add to the portfolio in the future:
 
@@ -94,7 +94,7 @@ Here are some additional features I'd like to add to the portfolio in the future
 
 ---
 
-## 🎨 Inspiration
+## Inspiration
 
 The main inspiration for creating this portfolio was to:
 
@@ -107,7 +107,7 @@ I want to give special thanks to the **ACM chapter at Cal State Fullerton** for 
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 Follow these steps to **run the project locally**:
 
